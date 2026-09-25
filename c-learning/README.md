@@ -8,7 +8,7 @@ gcc 01_hello.c -o hello   # コンパイル(機械語に翻訳)
 
 ## 学習ロードマップ
 1. 画面に表示する・変数と計算 ← 01_hello.c, 02_variables.c
-2. キーボードから入力する(scanf)
+2. キーボードから入力する(scanf) ← 03_scanf.c, 04_scanf_multi.c
 3. 条件分岐(if / switch)
 4. 繰り返し(for / while)
 5. 配列
